@@ -1,7 +1,3 @@
-<div align="center">
-
-<div align="center">
-
 <p align="center">
 English | <a href="../../README.md">简体中文</a>
 </p>
