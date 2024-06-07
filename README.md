@@ -31,3 +31,9 @@ pip install -r requirements.txt
 
 ##### 4、操作延迟
 在普通难度下，当AI作为先手进行游戏时，计算时间较长。由于该游戏未采用多线程处理逻辑，因此在运行过程中出现卡顿属于正常现象。
+
+## 素材来源
++ [爱给网](https://www.aigei.com/game/)
++ [Pngtree](https://zh.pngtree.com/)
+
+除此之外，还有部分素材来源于网络，现已无法追溯。

@@ -31,3 +31,9 @@ In this game, the red cross moves first, and the blue circle moves second.
 
 ##### 4、Operational Delay
 At normal difficulty, when AI plays as the first mover, the calculation time is lengthy. Since the game does not employ multi-threading logic, experiencing lag during gameplay is a normal phenomenon.
+
+## Material Sources
++ [Aigei](https://www.aigei.com/game/)
++ [Pngtree](https://zh.pngtree.com/)
+
+In addition, some materials originate from the internet and are now untraceable.
