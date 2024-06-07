@@ -37,3 +37,7 @@ pip install -r requirements.txt
 + [Pngtree](https://zh.pngtree.com/)
 
 除此之外，还有部分素材来源于网络，现已无法追溯。
+
+## 程序截图
+![程序截图1](src/images/project_screenshots/screenshot_1.png)
+![程序截图2](src/images/project_screenshots/screenshot_2.png)

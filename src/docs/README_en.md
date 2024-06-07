@@ -37,3 +37,7 @@ At normal difficulty, when AI plays as the first mover, the calculation time is 
 + [Pngtree](https://zh.pngtree.com/)
 
 In addition, some materials originate from the internet and are now untraceable.
+
+## Program Screenshots
+![Screenshot 1](../images/project_screenshots/screenshot_1.png)
+![Screenshot 2](../images/project_screenshots/screenshot_2.png)
